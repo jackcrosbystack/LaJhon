@@ -7,7 +7,6 @@ var pics = [
     "img/IMG_0628.jpg", //ranger
     "img/IMG_0630.jpg", //sleevless vest 
     "img/IMG_0633.jpg"
-
 ];
 
 var btn = document.querySelector("button"); //searchs the HTML doc and looks for 1st instance of button 
